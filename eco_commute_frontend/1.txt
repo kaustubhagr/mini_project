@@ -1,0 +1,13 @@
+eco-commute-frontend/
+├── package.json
+├── tailwind.config.js
+├── postcss.config.js       <-- (Chhoti si config file, niche de raha hoon)
+├── index.html
+└── src/
+    ├── index.css
+    ├── main.jsx            <-- (React entry point, niche de raha hoon)
+    ├── App.jsx
+    └── components/
+        ├── CommuteForm.jsx
+        ├── EmissionCard.jsx
+        └── MapView.jsx
